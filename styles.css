@@ -1,0 +1,11 @@
+/* Styles */
+
+h1 {
+    color: blue;
+    background-color: aqua;
+    font-family: sans-serif;
+}
+
+.quote {
+    background-color: lightgrey;
+}
