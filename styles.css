@@ -9,3 +9,10 @@ h1 {
 .quote {
     background-color: lightgrey;
 }
+
+#wordupdate {
+    background-color: black;
+    color: lightgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
